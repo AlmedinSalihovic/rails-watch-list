@@ -4,3 +4,4 @@ import "@popperjs/core"
 
 import "@hotwired/turbo-rails"
 import "controllers"
+
